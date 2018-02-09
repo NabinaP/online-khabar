@@ -1,0 +1,112 @@
+/*start of header*/
+.container{
+	width: 100%
+}
+.paragraph{
+	width: 100%;
+	margin: 0 auto;
+	text-align: justify;
+	float: left;
+}
+.wrapper{
+	width: 70%
+}
+.topic-nav h3{
+	color: #666;
+}
+.social.nav{
+	border-radius: 1px solid red;
+}
+.line{
+	float: left;
+}
+.clear{
+	clear: both;
+}
+.line1{
+	margin-right: 90px;
+	color: #666;
+	font-weight: bold;
+
+}
+.line2{
+	font-weight: bold;
+	color: #069;
+	font-size: 20px;
+}
+.line3{
+	color: #666;
+	margin-right: 80px;
+}
+.line4{
+	color: #666;
+	font-weight: bold;
+	font-size: 50px;
+}
+.line5{
+	color: rgb(168, 206, 80);
+	font-size: 25px;
+	margin-right: 100px;
+}
+.fabox1{
+    background-color: #2964a0;
+    color: white;
+    padding: 12px;
+    width: 50px;
+    cursor: pointer;
+    margin-left: 30px;
+}
+.fabox2{
+	background-color: rgb(29, 161, 242);
+	color: white;
+	padding: 12px;
+	width: 40px;
+	cursor: pointer;
+	margin-left: 10px;
+}
+.fabox3{
+	background-color: #666;
+	color: white;
+	padding: 12px;
+	width: 35px;
+	margin-top: 5px;
+	cursor: pointer;
+	margin-left: 30px;
+}
+.border-line{
+	border-top: 1px dotted #CCCCCC;
+	padding: 20px;
+	width: 95%;
+}
+.number-line{
+	border-left: 1px solid #CCCCCC;
+	padding: 10px;
+}
+.social-line{
+	border-left: 1px solid #CCCCCC;
+	padding: 10px;
+}
+header{
+	margin-left: 100px;
+}
+.ads{
+	float: left;
+	margin-left: 15px;
+}
+/*end of header*/
+
+/*start of section*/
+.img-karnali{
+	border-top: 1px dotted #CCCCCC;
+	width: 100%;
+
+}
+section{
+	margin-left: 100px;
+}
+/*end of section*/
+
+/*media query*/
+@media(max-width: 320px){
+
+}

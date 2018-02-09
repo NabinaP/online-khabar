@@ -1,0 +1,236 @@
+/*start of header*/
+.second-nav ul li{
+   list-style: none;
+}
+.fabox{
+	font-size: 30px;
+}
+.second-nav ul
+{
+
+	display: flex;
+	width: 100%;
+	height:48px;
+	background: #344d75;;
+	line-height: 52px;
+}
+.second-nav ul a
+{
+	font-size: 14px;
+	text-decoration: none;
+	color: white;
+	padding: 30px;
+}
+.second-nav ul li
+{
+	list-style-type: none;
+	display: inline-block;
+	border-right: 1px solid black; 
+}
+.second-nav ul li:hover{
+	background: #1d2c44;
+	transition: all 0.4s;
+}
+/*end of header*/
+
+/*start of section*/
+.headline a{
+   text-align: center;
+   text-decoration: none;
+}
+.headline h1{
+	font-size: 40px;
+	color: #2964a0;
+	border-left: 5px solid #e71829;
+	display: block;
+	padding: 30px;
+}
+.headline h1:hover{
+	color: #e71829;
+}
+.graph{
+	width: 1140px;
+    padding: 0 116px;
+    background: #FFF;
+    float: left;
+}
+
+.top-headline{
+	float: left;
+	margin-left: 45px;
+	width: 20%;
+}
+.top-headline a{
+	text-decoration: none;
+	color: #2964a0;
+}
+.top-headline a:hover{
+	color: #e71829;
+}
+.side-line{
+	width: 40%;
+	float: left;
+	margin: 20px;
+}
+.side-line a{
+	text-decoration: none;
+	color: #2964a0;
+	font-size: 20px; 
+}
+.side-line a:hover{
+	color: #e71829; 
+}
+.right-line a{
+	text-decoration: none;
+	color: #2964a0;
+}
+.right-line a:hover{
+	color: #e71829; 
+}
+.clear{
+	clear: both;
+}
+#hello-world{
+	background-color:#f6f6f6;
+	padding: 20px;
+}
+
+/*end of section*/
+
+/* start of tab*/
+/* Style the tab */
+div.tab {
+    overflow: hidden;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+div.tab button.active{
+	color: #c80000;
+}
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border-top: none;
+}
+
+/*end of tab*/
+/*next page taja khabar*/
+.second-tab ul li{
+	list-style: none;
+	padding: 10px 0 8px 0px;
+    border-bottom: 1px #dddddd solid;
+}
+.number{
+	float: left;
+	margin: 2px;
+	color: #878787;
+}
+.number a {
+	font-size: 15px;
+}
+/*end*/
+/*update*/
+.update{
+	float: left;#e9eff5;
+}
+.update h5{
+	color: #2964a0;
+}
+.update h5:hover{
+	color: #e71829;
+}
+/*start of footer*/
+.graph2{
+	width: 1140px;
+    padding: 0 116px;
+    background: #FFF;
+    float: left;
+    background: #e9eff5;
+}
+.graph3{
+	width: 1140px;
+    padding: 0 116px;
+    background: #FFF;
+    float: left;
+    background: #023874;
+}
+.footer{
+	float: left;
+	width: 15%;
+	margin-right: 2%;
+	padding: 30px 0px;
+}
+.hello-nav{
+	background-color: #023874;
+}
+.footer h2{
+	font-weight: normal;
+    color: #023874;
+    font-size: 1.3em;
+    margin: 20%;
+}
+.footer p{
+	color: #4f5254; 
+}
+.footer ul li {
+	list-style: none;
+
+}
+.footer ul li a{
+	text-decoration: none;
+	color: #4f5254;
+}
+.fax{
+	background-color: #6F6F6F;
+	color: white;
+	padding: 4px;
+	border-radius: 50%;
+	margin: 2px;
+}
+.footer-img img{
+	float: left;
+	width: 45%;
+	margin: 2px;
+	margin-top: 10px;
+}
+/*another last footer*/
+.policy{
+    float: left;
+}
+.policy ul li{
+	list-style: none;
+	float: left;
+}
+.policy li a{
+	color: white;
+	text-decoration: none;
+	margin: 10px;
+	font-size: 14px;
+}
+.policy li a:hover{
+	color: black;
+}
+.policy p{
+	color: white;
+	margin-left: 70px;
+	font-size: 15px;
+}
+.policy p a{
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+.policy p a:hover{
+	color: black;
+/*end of footer*/
